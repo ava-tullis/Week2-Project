@@ -1,0 +1,39 @@
+html, body, h1, h2, ul, li, p, a {
+padding: 0;
+border: 0;
+margin: 0;
+}
+body {
+    color:white;
+    background-image: url("https://vinsweb.org/wp-content/uploads/2020/04/AtHome-NightSky-1080x810-1.jpg");
+    margin: 0;
+}
+h1 {
+    margin: 0 0 15px 0;
+   text-align: center; 
+   padding-top: 150px;
+   font-size: xx-large;
+}
+h2 {
+    margin: 15px 0 15px;
+    text-align: center;
+    font-size: small;
+}
+h3 {
+    text-align: center;
+}
+.body {
+    padding: 15px 0 0 0;
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100%;
+ 
+}
+.nav {
+    display: inline;
+    padding: 10px 200px 10px 200px;
+    text-align: center;
+    width: 1000px;
+    background-color: rgb(36, 35, 35);
+}
